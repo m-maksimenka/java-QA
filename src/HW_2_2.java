@@ -2,7 +2,6 @@
 
 public class HW_2_2 {
     public static void main(String[] args) {
-        String smile = "\u263A";
-        System.out.println(smile);
+        System.out.println("\u263A");
     }
 }
