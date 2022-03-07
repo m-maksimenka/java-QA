@@ -8,7 +8,7 @@ public class HW_2_1 {
         System.out.println(a + b);
         System.out.println(a * b);
         System.out.println(a - b);
-        System.out.println(a / b);
+        System.out.println(1.0 * a / b);
         System.out.println(a % b);
 
         if (a % 2 == 0) {
