@@ -2,7 +2,7 @@
 
 public class HW_3_2_2 {
     public static void main(String[] args) {
-        for (int i = 5; i < 1000; i *= 5) {
+        for (int i = 5; i < 10000; i *= 5) {
             System.out.println(i);
         }
     }
