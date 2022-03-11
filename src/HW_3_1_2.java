@@ -6,7 +6,7 @@ public class HW_3_1_2 {
         int b = 8;
         if ((a + b) % 2 == 0) {
             System.out.println("maybe a and b are even");
-        } else if ((a + b) % 2 == 1) {
+        } else {
             System.out.println("some variable is odd");
         }
     }
